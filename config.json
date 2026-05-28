@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenpelete",
+        "uuid": 17330178,
+        "checksum": "h6qz7"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
